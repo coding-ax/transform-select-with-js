@@ -11,6 +11,7 @@
   "categories": [
     "Other"
   ],
+  "publisher": "codeax",
   "activationEvents": [
     "onCommand:transform-select-with-js.exec-js"
   ],
