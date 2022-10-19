@@ -1,11 +1,13 @@
 {
   "name": "transform-select-with-js",
   "displayName": "transform-select-with-js",
-  "description": "",
+  "description": "一个内置 lodash,通过 js 表达式转换所选文本的 vscode 插件 / A built-in lodash, vscode plugin that transforms selected text via js expressions.",
   "version": "0.0.1",
   "engines": {
     "vscode": "^1.72.0"
   },
+  "repository": "https://github.com/coding-ax/transform-select-with-js",
+  "license": "MIT",
   "categories": [
     "Other"
   ],
